@@ -1,8 +1,18 @@
-# React + Vite
+# Meu Projeto React com Vite My Blog
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este é um projeto React que usa Vite para um ambiente de desenvolvimento rápido e eficiente.
 
-Currently, two official plugins are available:
+## Desenvolvimento Local
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Para desenvolver localmente, siga estas etapas:
+
+1. Clone o repositório para a sua máquina local.
+
+2. Navegue até o diretório do projeto.
+
+3. Instale as dependências do projeto com o comando `npm install`.
+
+4. Inicie o servidor de desenvolvimento local com o comando `npm run dev`.
+
+Agora você deve ser capaz de ver o projeto rodando em seu navegador em `http://localhost:3000` ou `http://localhost:5000`.
+
